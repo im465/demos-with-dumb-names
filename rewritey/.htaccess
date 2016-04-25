@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule comic/([0-9]+) item.php?image=$1
